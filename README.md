@@ -30,7 +30,7 @@
 
 ### Talks
 
-* [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+* [ ][Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
     * _Tail Recursion, Trampolining, Higher Kinded Types, Benefits of Functional Programming_
 
 * [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)
@@ -39,7 +39,7 @@
 * [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
     * _Functional design patterns from partial application to Monads and Monoids_
 
-* [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
+* [x][FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
     * _Live coding session on Functional Programming design and techniques_
 
 * [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
@@ -59,7 +59,7 @@
 
 ### Articles
 
-* [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
+* [ ][Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
     * _Functional Programming design_
 
 * [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
