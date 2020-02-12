@@ -30,7 +30,7 @@
 
 ### Talks
 
-* [ ] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+* [x] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
     * _Tail Recursion, Trampolining, Higher Kinded Types, Benefits of Functional Programming_
 
 * [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)
