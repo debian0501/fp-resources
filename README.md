@@ -33,7 +33,7 @@
 * [x] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
     * _Tail Recursion, Trampolining, Higher Kinded Types, Benefits of Functional Programming_
 
-* [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)
+* [ ] [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)
     * _Functional Programming Design, Referential Transparency and side-effects_
 
 * [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
@@ -62,7 +62,7 @@
 * [ ] [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
     * _Functional Programming design_
 
-* [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
+* [x] [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
     * _Functional Programming design_
 
 * [Scala best practices](https://nrinaudo.github.io/scala-best-practices/index.html)
